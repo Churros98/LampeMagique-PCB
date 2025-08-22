@@ -1,3 +1,6 @@
 Build/
 Lampe-backups/
 *.lck
+*.zip
+.*
+.*/*
